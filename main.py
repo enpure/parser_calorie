@@ -1,5 +1,3 @@
-# YouTube: https://www.youtube.com/c/PythonToday/videos
-
 import random
 from time import sleep
 import requests
